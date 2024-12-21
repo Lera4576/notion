@@ -1,4 +1,4 @@
-# Note Taking Application
+# Notion
 
 ## Overview
 This application allows users to register, create, edit, and delete notes. Each user has a personal space to manage their notes efficiently. Additionally, there is an "About" page that displays user information.
@@ -8,6 +8,8 @@ This application allows users to register, create, edit, and delete notes. Each 
 - **Note Management**: Create, edit, and delete notes easily.
 - **User Profile**: Access an "About" page with user information.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
+
+- ![Alt text](https://github.com/Lera4576/notion/blob/main/notion.gif?raw=true)
 
 ## Technologies Used
 - **React**: For building the user interface.
